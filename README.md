@@ -69,8 +69,8 @@ You can access the API documentation using Swagger UI at the following link:
 
 1. Clone the repository:
    ```bash
-   git clone 
-   cd parking-lot
+   git clone https://github.com/mifsshubhamm/Drop_Welcome_Test_BE.git
+   cd Drop_Welcome_Test_BE
    ```
 
 2. Build the project:
