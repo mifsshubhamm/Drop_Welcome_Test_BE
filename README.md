@@ -19,6 +19,10 @@ The Parking Lot Management System is a Spring Boot REST API that allows users to
 - Maven
 - Resilience4j (for rate limiting)
 
+## Project Overview
+
+Watch the project overview video [here](https://drive.google.com/file/d/1CYp7omJUwABFNReWDUMho_EBnxqvzvqI/view?usp=sharing).
+
 ## API Endpoints
 
 ### 1. Park a Car
